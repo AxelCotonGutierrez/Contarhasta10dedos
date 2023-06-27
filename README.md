@@ -12,7 +12,7 @@ https://axelcotongutierrez.github.io/Contarhasta10dedos/
 
 ¡Bienvenido al emocionante juego de contar dedos! ¿Estás listo para poner a prueba tus habilidades matemáticas mientras te diviertes? En este desafío, pondremos a prueba tu destreza para contar hasta diez utilizando los dedos de las manos.
 
-El juego es simple pero desafiante. En cada turno, aparecerá una mano con un número aleatorio de dedos extendidos. Tu objetivo es ser lo suficientemente rápido y preciso para pulsar el botón correspondiente al número de dedos que veas en las manos.
+El juego es simple pero desafiante. En cada turno, aparecerá una o dos manos con un número aleatorio de dedos extendidos. Tu objetivo es ser lo suficientemente rápido y preciso para pulsar el botón correspondiente al número de dedos que veas en las manos.
 
 ¿Crees que puedes contar hasta diez sin equivocarte? ¡Demuéstranos tu habilidad durante cinco turnos seguidos y conviértete en el maestro de los dedos!
 
