@@ -1,6 +1,6 @@
 # Contar hasta 10 usando dedos.
 
-![Juego de los dedos](https://axelcotongutierrez.github.io/learningmathematicas/assets/images//posts/Contar10/jcontar10de.jpg)
+![Juego de los dedos](https://axelcotongutierrez.github.io/learningmathematicas/assets/images//posts/04JContar10/jcontar10de.jpg)
 
 Dentro del blog: https://axelcotongutierrez.github.io/learningmathematicas/
 
